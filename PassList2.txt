@@ -1,0 +1,8 @@
+admin
+pass
+admin1
+admin123
+password
+12345
+123123
+123
